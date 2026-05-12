@@ -213,7 +213,7 @@ export default function SplashScreen({ onComplete }) {
                 color: '#f0ead6', margin: 0,
               }}
             >
-              Gauri Interiors
+              Interior Concepts
             </motion.p>
 
             <motion.div

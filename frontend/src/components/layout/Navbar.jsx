@@ -64,8 +64,8 @@ export default function Navbar({ isPage = false }) {
             className="flex flex-col leading-none text-left"
             whileHover={{ scale: 1.02 }}
           >
-            <span className="font-['Cormorant_Garamond'] text-2xl font-600 gold-text tracking-widest">GAURI</span>
-            <span className="text-[10px] tracking-[0.4em] text-white/50 uppercase">Interiors</span>
+            <span className="font-['Cormorant_Garamond'] text-2xl font-600 gold-text tracking-widest">INTERIOR</span>
+            <span className="text-[10px] tracking-[0.4em] text-white/50 uppercase">Concepts</span>
           </motion.button>
 
           {/* Desktop Links */}

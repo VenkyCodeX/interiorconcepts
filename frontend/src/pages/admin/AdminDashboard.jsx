@@ -54,8 +54,8 @@ export default function AdminDashboard() {
             >
             {/* Logo */}
             <div className="p-6 border-b border-white/5">
-              <span className="font-['Cormorant_Garamond'] text-2xl gold-text tracking-widest block">GAURI</span>
-              <span className="text-[9px] tracking-[0.4em] text-white/30 uppercase">Admin Panel</span>
+              <span className="font-['Cormorant_Garamond'] text-2xl gold-text tracking-widest block">INTERIOR</span>
+              <span className="text-[9px] tracking-[0.4em] text-white/30 uppercase">Concepts · Admin</span>
             </div>
 
             {/* Nav */}

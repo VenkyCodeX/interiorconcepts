@@ -11,8 +11,8 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <div className="mb-6">
-              <span className="font-['Cormorant_Garamond'] text-3xl font-600 gold-text tracking-widest block">GAURI</span>
-              <span className="text-[10px] tracking-[0.4em] text-white/40 uppercase">Interiors</span>
+              <span className="font-['Cormorant_Garamond'] text-3xl font-600 gold-text tracking-widest block">INTERIOR</span>
+              <span className="text-[10px] tracking-[0.4em] text-white/40 uppercase">Concepts</span>
             </div>
             <p className="text-white/50 text-sm leading-relaxed mb-6">
               Transforming spaces with premium interiors and luxury blinds. Crafting elegance since 2010.
@@ -71,7 +71,7 @@ export default function Footer() {
               </li>
               <li className="flex items-start gap-3 text-white/50 text-sm">
                 <Mail size={14} className="text-[#C9A84C] mt-0.5 shrink-0" />
-                <span>info@gauriinteriors.com</span>
+                <span>info@interiorconcepts.com</span>
               </li>
               <li className="flex items-start gap-3 text-white/50 text-sm">
                 <MapPin size={14} className="text-[#C9A84C] mt-0.5 shrink-0" />
@@ -93,7 +93,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-white/5 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
-          <p className="text-white/30 text-xs tracking-widest">© {year} Gauri Interiors. All rights reserved.</p>
+          <p className="text-white/30 text-xs tracking-widest">© {year} Interior Concepts. All rights reserved.</p>
           <p className="text-white/20 text-xs">Crafted with excellence</p>
         </div>
       </div>

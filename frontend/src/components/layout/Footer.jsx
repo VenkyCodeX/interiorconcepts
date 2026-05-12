@@ -94,7 +94,13 @@ export default function Footer() {
 
         <div className="border-t border-white/5 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-white/30 text-xs tracking-widest">© {year} Interior Concepts. All rights reserved.</p>
-          <p className="text-white/20 text-xs">Crafted with excellence</p>
+          <p className="text-white/20 text-xs">
+            Developed by{' '}
+            <a href="https://alphadevs.in" target="_blank" rel="noopener noreferrer"
+              className="text-[#C9A84C] hover:text-[#E8C97A] transition-colors duration-300">
+              AlphaDevs
+            </a>
+          </p>
         </div>
       </div>
     </footer>
